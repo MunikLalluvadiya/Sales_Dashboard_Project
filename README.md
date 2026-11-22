@@ -1,5 +1,7 @@
 Interactive Sales Dashboard & Revenue Forecasting System
 
+**Live Demo:** https://salesdashboardproject-mqcrud7upicxs4qmxsdi36.streamlit.app/
+
 A data analytics project that stores retail sales data in a SQL database, analyses it, shows it in an interactive Streamlit dashboard, and forecasts the next 3 months of revenue.
 
 Made for the Data Analytics practical project, Baroda Institute of Technology, Bharuch.
