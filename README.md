@@ -69,7 +69,7 @@ Sales_Dashboard_Project/
 └── README.md
 6. Installation
 Clone the repository:
-git clone <your-repository-link>
+git clone <https://github.com/MunikLalluvadiya/Sales_Dashboard_Project.git>
 cd Sales_Dashboard_Project
 (Recommended) create and activate a virtual environment.
 Install the packages:
@@ -116,5 +116,4 @@ Limitation: the model captures the overall growth trend but not the seasonal pea
 Note: The forecast is an estimate based on historical data and is not a guaranteed business outcome.
 
 11. Author
-
-<Your Name>, IT Diploma Student GitHub: <your-github-link>
+GitHub: <https://github.com/MunikLalluvadiya/>
