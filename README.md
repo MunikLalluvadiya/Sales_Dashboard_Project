@@ -50,6 +50,7 @@ The CSV is split into 3 related tables:
 Customers: Customer_ID (PK), Customer_Name, City, Region
 Products: Product_ID (PK), Product_Name, Category, Unit_Price
 Sales: Order_ID (PK), Order_Date, Customer_ID (FK), Product_ID (FK), Quantity, Sales_Amount, Payment_Mode
+
 5. Project Structure
 Sales_Dashboard_Project/
 ├── app.py                  # Streamlit dashboard
